@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 样品展示
 
-![Image of bag01](https://github.com/all-bag/all-bag.github.io/blob/master/img/handbag01.jpg)
+![Image of bag01](/img/handbag01.jpg)
 ![Image of bag02](https://github.com/all-bag/all-bag.github.io/blob/master/img/handbag02.jpg)
 ![Image of bag03](https://github.com/all-bag/all-bag.github.io/blob/master/img/handbag03.jpg)
 
