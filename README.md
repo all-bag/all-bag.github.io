@@ -35,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Image of bag01](/img/handbag01.jpg)
 ![Image of bag02](/img/handbag02.jpg)
-![Image of bag03](img/handbag03.jpg)
+![Image of bag03](/img/handbag03.jpg)
 
 ### 联系方式
 
