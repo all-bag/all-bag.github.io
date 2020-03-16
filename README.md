@@ -1,10 +1,13 @@
-## 欢迎来到美珍包包有限公司
+## 欢迎来到【美珍包包有限公司】
 
 欢迎访问https://all-bag.github.com/咨询关于手袋、背包等各类包包制作承接的详情。
 
+### 使命
+### 愿景
+### 价值观
+
 ### 主要业务
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
