@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/all-bag/all-bag.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 ### 联系方式
 
