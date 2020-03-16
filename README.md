@@ -32,7 +32,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### 联系方式
 ```markdown
-#### 网址：https://all-bag.github.com
-#### 联系人：刘女士
-#### 联系电话：+86 189 7341 5372
-#### 联系电邮：liuxiaofengbags@163.com
+- 网址：https://all-bag.github.com
+- 联系人：刘女士
+- 联系电话：+86 189 7341 5372
+- 联系电邮：liuxiaofengbags@163.com
