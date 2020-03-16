@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到美珍包包有限公司
 
-You can use the [editor on GitHub](https://github.com/all-bag/all-bag.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+欢迎访问https://all-bag.github.com/咨询关于手袋、背包等各类包包制作承接的详情。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 主要业务
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,6 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/all-bag/all-bag.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 联系方式
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+网址：https://all-bag.github.com
+联系人：刘女士
+联系电话：+86 189 7341 5372
+联系电邮：liuxiaofengbags@163.com
